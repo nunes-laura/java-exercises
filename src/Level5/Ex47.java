@@ -25,7 +25,7 @@ public class Ex47 {
 
         int somaMaiores = 0;
         int somaMenores = 0;
-        int somaIguais =0;
+        int somaIguais = 0;
         int[] vect = new int[10];
 
         for(int i =0; i<vect.length; i++) {
