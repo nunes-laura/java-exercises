@@ -6,7 +6,7 @@ public class Ex47 {
 
 	public static void main(String[] args) {
 	
-		/* Considere vetor de 10 numeros inteiros positovos
+		/* Considere vetor de 10 numeros inteiros positivos
 		 * 1 numero x positivo maior que zero
 		 * - Ler o vetor
 		 * - Ler o numero x
